@@ -1,5 +1,4 @@
 # RD-INFRO-TECHNOLOGY
-# RD-INFRO-TECHNOLOGY
 Hotel Booking Landing Page
 
 This is a responsive Hotel Booking Landing Page created using HTML and CSS. The page is designed to showcase hotel features, services, and a booking section with a modern and attractive UI.
